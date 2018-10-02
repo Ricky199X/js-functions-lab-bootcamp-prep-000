@@ -11,3 +11,10 @@ function happyHolidayTo (holiday, name) {
   greeting = "Happy " + holiday + ", " + name + "!";
   return greeting;
 }
+
+function holidayCountdown (holiday, days) {
+  
+}
+
+
+
