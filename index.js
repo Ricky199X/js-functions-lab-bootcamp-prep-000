@@ -9,5 +9,8 @@ function happyHolidaysTo (string) {
 }
 
 function happyHolidayTo (holiday, name) {
-  holiday = " "
+  holiday = " ";
+  name = " ";
+  greeting = "Happy " + holiday + ", " + name + "!";
+  return greeting;
 }
